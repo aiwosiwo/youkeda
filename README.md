@@ -1,2 +1,4 @@
-## 啦啦啦
-### 我是卖报的小行家
+1. git add -A
+2. git commit -m ""
+3. git push origin master
+4. git pull
